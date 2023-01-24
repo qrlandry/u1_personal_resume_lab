@@ -1,0 +1,15 @@
+header {
+    margin: 20px;
+}
+
+body {
+    margin: 40px;
+}
+
+.description {
+    line-height: 0px;
+}
+
+#prj {
+    padding: 5px;
+}
